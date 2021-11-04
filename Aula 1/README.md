@@ -1,7 +1,7 @@
 # Lab 1.1 - Modify the square
 
 ## Compile
-g++ -o test quadrado.cpp -lGL -lGLU -lglut”.
+g++ -o test quadrado.cpp -lGL -lGLU -lglut
 
 ## Run
 ./test
